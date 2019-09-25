@@ -2,10 +2,14 @@
 //https url https://www.liumwallet.com 
 //Server1 IP : 175.xxx.xxx.209 
 //ID : xxx
-//liumwallet.com  
+//local url : liumwallet.com  
 //Server2  IP : 218.xxx.xxx.55
-//my sql information
+//my sql information : hidden 
 //root mysql ghdtkdrlf!@#$%$%
+// author email id savageox@lium.io
+// project owner sang kil Hong. 
+// proto type name project lium social education smarat contract system
+// 
 
 initialize etherium mining service
 nohup   parity
@@ -20,7 +24,7 @@ m_coin_addr -> ether_coin_address
 m_wallet ->   Member_Wallet_Address
 m_state -> ready // wallet address has created & activated
  
-///**need  block outbound inbound GeoIP Global IP
+///**need to block outbound inbound GeoIP & Global IP
 
      
 
